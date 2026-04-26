@@ -1,0 +1,15 @@
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\bin\Debug\net10.0\WorkflowOrchestrator.Application.deps.json
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\bin\Debug\net10.0\WorkflowOrchestrator.Application.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\bin\Debug\net10.0\WorkflowOrchestrator.Application.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\bin\Debug\net10.0\WorkflowOrchestrator.Domain.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\bin\Debug\net10.0\WorkflowOrchestrator.Domain.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\WorkflowOrchestrator.Application.csproj.AssemblyReference.cache
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\WorkflowOrchestrator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\WorkflowOrchestrator.Application.AssemblyInfoInputs.cache
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\WorkflowOrchestrator.Application.AssemblyInfo.cs
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\WorkflowOrchestrator.Application.csproj.CoreCompileInputs.cache
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\Workflow.EDE223CC.Up2Date
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\WorkflowOrchestrator.Application.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\refint\WorkflowOrchestrator.Application.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\WorkflowOrchestrator.Application.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Application\obj\Debug\net10.0\ref\WorkflowOrchestrator.Application.dll

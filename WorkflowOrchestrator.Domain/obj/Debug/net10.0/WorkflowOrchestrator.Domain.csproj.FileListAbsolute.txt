@@ -1,0 +1,11 @@
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\bin\Debug\net10.0\WorkflowOrchestrator.Domain.deps.json
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\bin\Debug\net10.0\WorkflowOrchestrator.Domain.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\bin\Debug\net10.0\WorkflowOrchestrator.Domain.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\obj\Debug\net10.0\WorkflowOrchestrator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\obj\Debug\net10.0\WorkflowOrchestrator.Domain.AssemblyInfoInputs.cache
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\obj\Debug\net10.0\WorkflowOrchestrator.Domain.AssemblyInfo.cs
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\obj\Debug\net10.0\WorkflowOrchestrator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\obj\Debug\net10.0\WorkflowOrchestrator.Domain.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\obj\Debug\net10.0\refint\WorkflowOrchestrator.Domain.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\obj\Debug\net10.0\WorkflowOrchestrator.Domain.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Domain\obj\Debug\net10.0\ref\WorkflowOrchestrator.Domain.dll

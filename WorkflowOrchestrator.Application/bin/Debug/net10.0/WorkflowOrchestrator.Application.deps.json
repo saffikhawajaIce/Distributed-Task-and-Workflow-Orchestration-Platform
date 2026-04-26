@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WorkflowOrchestrator.Application/1.0.0": {
+        "dependencies": {
+          "WorkflowOrchestrator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WorkflowOrchestrator.Application.dll": {}
+        }
+      },
+      "WorkflowOrchestrator.Domain/1.0.0": {
+        "runtime": {
+          "WorkflowOrchestrator.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkflowOrchestrator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkflowOrchestrator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\bin\Debug\net10.0\WorkflowOrchestrator.Infrastructure.deps.json
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\bin\Debug\net10.0\WorkflowOrchestrator.Infrastructure.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\bin\Debug\net10.0\WorkflowOrchestrator.Infrastructure.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\bin\Debug\net10.0\WorkflowOrchestrator.Application.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\bin\Debug\net10.0\WorkflowOrchestrator.Domain.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\bin\Debug\net10.0\WorkflowOrchestrator.Application.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\bin\Debug\net10.0\WorkflowOrchestrator.Domain.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\WorkflowOrchestrator.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\WorkflowOrchestrator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\WorkflowOrchestrator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\WorkflowOrchestrator.Infrastructure.AssemblyInfo.cs
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\WorkflowOrchestrator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\Workflow.DEFE0DC9.Up2Date
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\WorkflowOrchestrator.Infrastructure.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\refint\WorkflowOrchestrator.Infrastructure.dll
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\WorkflowOrchestrator.Infrastructure.pdb
+C:\Users\Saffi\WorkflowOrchestrationProject\src\WorkflowOrchestrator.Infrastructure\obj\Debug\net10.0\ref\WorkflowOrchestrator.Infrastructure.dll
